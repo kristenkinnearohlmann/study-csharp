@@ -1,0 +1,6 @@
+C:\Users\kkinnea\Documents\_Working\programming-csharp\LibraryUtil\LibraryUtil\bin\Debug\LibraryUtil.dll
+C:\Users\kkinnea\Documents\_Working\programming-csharp\LibraryUtil\LibraryUtil\bin\Debug\LibraryUtil.pdb
+C:\Users\kkinnea\Documents\_Working\programming-csharp\LibraryUtil\LibraryUtil\obj\Debug\LibraryUtil.csprojResolveAssemblyReference.cache
+C:\Users\kkinnea\Documents\_Working\programming-csharp\LibraryUtil\LibraryUtil\obj\Debug\LibraryUtil.csproj.CoreCompileInputs.cache
+C:\Users\kkinnea\Documents\_Working\programming-csharp\LibraryUtil\LibraryUtil\obj\Debug\LibraryUtil.dll
+C:\Users\kkinnea\Documents\_Working\programming-csharp\LibraryUtil\LibraryUtil\obj\Debug\LibraryUtil.pdb

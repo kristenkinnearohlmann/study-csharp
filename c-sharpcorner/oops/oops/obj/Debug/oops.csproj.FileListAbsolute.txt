@@ -1,0 +1,6 @@
+C:\Users\kkinnea\Documents\Visual Studio 2015\Projects\C#\c-sharpcorner\oops\oops\bin\Debug\oops.exe.config
+C:\Users\kkinnea\Documents\Visual Studio 2015\Projects\C#\c-sharpcorner\oops\oops\obj\Debug\oops.csprojResolveAssemblyReference.cache
+C:\Users\kkinnea\Documents\Visual Studio 2015\Projects\C#\c-sharpcorner\oops\oops\bin\Debug\oops.exe
+C:\Users\kkinnea\Documents\Visual Studio 2015\Projects\C#\c-sharpcorner\oops\oops\bin\Debug\oops.pdb
+C:\Users\kkinnea\Documents\Visual Studio 2015\Projects\C#\c-sharpcorner\oops\oops\obj\Debug\oops.exe
+C:\Users\kkinnea\Documents\Visual Studio 2015\Projects\C#\c-sharpcorner\oops\oops\obj\Debug\oops.pdb

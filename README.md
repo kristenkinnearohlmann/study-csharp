@@ -36,3 +36,6 @@ lambad expressions
 - if defining as multiple expressions, defined as `(input-parameters) => { statement; }`
 - if the parm types are obviously typed, remove type declaration `bool hasEvenNumbers = Array.Exists(numbers, (num) => num % 2 == 0 );`
 - if there is a single, obiously typed parameter, can condense to `bool hasEvenNumbers = Array.Exists(numbers, num => num % 2 == 0 );`
+
+## Objects
+for...in will execute a given block of code for each property in an object.
